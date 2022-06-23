@@ -1,0 +1,2 @@
+#!/bin/bash
+cat > school.mgc 0 string SCHOOL !:mime School
